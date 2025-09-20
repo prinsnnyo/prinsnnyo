@@ -16,20 +16,19 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
 
 ```typescript
 const developer = {
-    name: "Your Name",
-    location: "Your Location 🌍",
+    name: "Prince Niño Antigo",
+    location: "Sibagat Agusan del Sur",
     role: "Full Stack Developer",
     languages: ["JavaScript", "TypeScript", "Python", "Go"],
-    frameworks: ["React", "Next.js", "Node.js", "Express"],
-    databases: ["MongoDB", "PostgreSQL", "Redis"],
-    cloud: ["AWS", "Docker", "Kubernetes"],
+    frameworks: ["React", "Next.js", "Node.js", "Express", "Laravel", "Bootstrap"],
+    databases: ["MongoDB", "PostgreSQL", "Redis" , "Supabase", "MariaDB"],
+    cloud: ["AWS", "Docker"],
     currentFocus: "Building scalable microservices",
-    funFact: "I debug with console.log and I'm proud of it! 😄"
-};
+    funFact: "If you don't have a problem then create one and build millions of solutions"
 ```
 
 <br clear="right"/>
@@ -115,8 +114,18 @@ const developer = {
 
 ## 🎵 Currently Vibing To
 
+
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=yourspotifyusername&theme=dark&background_color=0d1117&border_color=00d9ff" width="350" />
+  <div style="display: flex; align-items: center; background: #1db954; padding: 15px; border-radius: 12px; max-width: 400px; margin: 0 auto;">
+    <img src="https://img.icons8.com/color/48/000000/spotify.png" alt="Spotify" width="40" height="40" style="margin-right: 12px;"/>
+    <div style="text-align: left; color: white;">
+      <div style="font-weight: bold; font-size: 16px;">Predador de Perereca</div>
+      <div style="font-size: 14px; opacity: 0.8;">BLOW RECORDS, Mc Jhey</div>
+    </div>
+  </div>
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=1DB954&center=true&vCenter=true&width=300&lines=♪♫♪+Now+Vibing+♪♫♪;🎵+Brazilian+Funk+🎵;🔥+BLOW+RECORDS+🔥" alt="Music Status" />
 </div>
 
 ---
@@ -124,32 +133,14 @@ const developer = {
 ## 💡 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,2&height=100&section=header&text=Never%20touch%20working%20code%20on%20a%20Friday%20afternoon.&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=50"/>
+<div align="center">
+"If it works, don't touch it. If it doesn't work, don't touch it either."
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%22I+have+no+idea+how+this+works%2C+but+it+does%22;%22So+I'm+not+changing+anything%22;%22Anonymous+Developer+Wisdom%22" alt="Developer Philosophy" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
-
----
-
-<div align="center">
-  
-### 💖 Support My Work
-  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourprofile)
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
-
-<div align="center">
   
 ### Show some ❤️ by starring some of my repositories!
 
