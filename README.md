@@ -15,22 +15,17 @@
 ---
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-<img align="right" alt="Coding" width="434" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-
-
 ```typescript
 const developer = {
     name: "Prince Niño Antigo",
     location: "Sibagat Agusan del Sur",
     role: "Full Stack Developer",
-    languages: ["JavaScript", "TypeScript", "Python", "Go"],
-    frameworks: ["React", "Next.js", "Node.js", "Express", "Laravel", "Bootstrap"],
-    databases: ["MongoDB", "PostgreSQL", "Redis" , "Supabase", "MariaDB"],
-    cloud: ["AWS", "Docker"],
     currentFocus: "Building scalable microservices",
-    funFact: "If you don't have a problem then create one and build millions of solutions"
-```
 
+```
+<div align="center">
+  <img alt="Coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" style="max-width: 100%; height: auto;"/>
+</div>
 
 ---
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
@@ -169,10 +164,9 @@ const developer = {
 ## 💡 Random Dev Quote
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,2&height=100&section=header&text=Never%20touch%20working%20code%20on%20a%20Friday%20afternoon.&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=50"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,2&height=100&section=header&text=Never%20touch%20working%20code%20on%20a%20Friday%20afternoon.&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=50"/>
 <div align="center">
 "If it works, don't touch it. If it doesn't work, don't touch it either."
-
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%22I+have+no+idea+how+this+works%2C+but+it+does%22;%22So+I'm+not+changing+anything%22;%22Anonymous+Developer+Wisdom%22" alt="Developer Philosophy" />
 </div>
